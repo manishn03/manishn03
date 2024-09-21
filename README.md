@@ -1,5 +1,5 @@
-[ReadMe.md](https://github.com/user-attachments/files/17082915/ReadMe.md)
-[Up# 💫 About Me:
+
+💫 About Me:
 🔭 I’m currently working on "cybersecurity"<br>🤝 I’m looking for help with "security automations"<br>🌱 I’m currently learning "scripting"<br>💬 Ask me about " pentesting and osint"<br>
 
 
